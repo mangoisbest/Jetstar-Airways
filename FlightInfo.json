@@ -1,10 +1,10 @@
 {
   "Flights": "1",
-  "Updated": "0",
+  "Updated": "today",
   "FlightA": {
-    "FlightNumber": "0",
-    "Date": "0",
-    "Time": "0",
+    "FlightNumber": "JQ934",
+    "Date": "18/04/22",
+    "Time": "2:30pm AEST",
     "Host": "0",
     "DepartureAirport": "0",
     "ArrivalAirport": "0",
