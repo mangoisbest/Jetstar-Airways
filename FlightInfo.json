@@ -1,15 +1,15 @@
 {
-  "Flights": "1",
+  "Flights": "2",
   "Updated": "today",
   "FlightA": {
     "FlightNumber": "JQ934",
     "Date": "18/04/22",
     "Time": "2:30pm AEST",
-    "Host": "0",
-    "DepartureAirport": "0",
-    "ArrivalAirport": "0",
-    "Gate": "0",
-    "Status": "0"
+    "Host": "Xx_ashcarter13",
+    "DepartureAirport": "Brisbane",
+    "ArrivalAirport": "Carins",
+    "Gate": "27",
+    "Status": "Scheduled"
   },
   "FlightB": {
     "FlightNumber": "0",
