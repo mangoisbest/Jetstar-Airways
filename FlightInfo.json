@@ -1,6 +1,6 @@
 {
-  "Flights": "1",
-  "Updated": "now",
+  "Flights": "3",
+  "Updated": "today",
   "FlightA": {
     "FlightNumber": "JQ934",
     "Date": "18/04/22",
@@ -15,6 +15,16 @@
     "FlightNumber": "0",
     "Date": "1",
     "Time": "12:30",
+    "Host": "0",
+    "DepartureAirport": "0",
+    "ArrivalAirport": "0",
+    "Gate": "0",
+    "Status": "0"
+  },
+  "FlightC": {
+    "FlightNumber": "0",
+    "Date": "1",
+    "Time": "0",
     "Host": "0",
     "DepartureAirport": "0",
     "ArrivalAirport": "0",
