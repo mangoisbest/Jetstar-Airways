@@ -1,0 +1,34 @@
+{
+  "Flights": "0",
+  "Updated": "26/02/22 - 11:51AM",
+  "TrainingA": {
+    "Date": "test",
+    "Time": "test",
+    "Notes": "test",
+    "Host": "test"
+  },
+  "TrainingB": {
+    "Date": "test",
+    "Time": "test",
+    "Notes": "test",
+    "Host": "test"
+  },
+  "TrainingC": {
+    "Date": "test",
+    "Time": "test",
+    "Notes": "test",
+    "Host": "test"
+  },
+  "TrainingD": {
+    "Date": "test",
+    "Time": "test",
+    "Notes": "test",
+    "Host": "test"
+  },
+  "TrainingE": {
+    "Date": "test",
+    "Time": "test",
+    "Notes": "test",
+    "Host": "test"
+  }
+}
