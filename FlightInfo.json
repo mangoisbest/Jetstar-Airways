@@ -2,8 +2,9 @@
   "Flights": "1",
   "Updated": "0",
   "FlightA": {
-    "Date": "1",
-    "Time": "12:30",
+    "FlightNumber": "0",
+    "Date": "0",
+    "Time": "0",
     "Host": "0",
     "DepartureAirport": "0",
     "ArrivalAirport": "0",
@@ -11,6 +12,7 @@
     "Status": "0"
   },
   "FlightB": {
+    "FlightNumber": "0",
     "Date": "1",
     "Time": "12:30",
     "Host": "0",
