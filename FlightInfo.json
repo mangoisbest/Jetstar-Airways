@@ -1,34 +1,22 @@
 {
   "Flights": "1",
-  "Updated": "26/02/22 - 11:51AM",
-  "TrainingA": {
-    "Date": "test",
-    "Time": "test",
-    "Notes": "test",
-    "Host": "test"
+  "Updated": "0",
+  "FlightA": {
+    "Date": "1",
+    "Time": "12:30",
+    "Host": "0",
+    "DepartureAirport": "0",
+    "ArrivalAirport": "0",
+    "Gate": "0",
+    "Status": "0"
   },
-  "TrainingB": {
-    "Date": "test",
-    "Time": "test",
-    "Notes": "test",
-    "Host": "test"
-  },
-  "TrainingC": {
-    "Date": "test",
-    "Time": "test",
-    "Notes": "test",
-    "Host": "test"
-  },
-  "TrainingD": {
-    "Date": "test",
-    "Time": "test",
-    "Notes": "test",
-    "Host": "test"
-  },
-  "TrainingE": {
-    "Date": "test",
-    "Time": "test",
-    "Notes": "test",
-    "Host": "test"
+  "FlightB": {
+    "Date": "1",
+    "Time": "12:30",
+    "Host": "0",
+    "DepartureAirport": "0",
+    "ArrivalAirport": "0",
+    "Gate": "0",
+    "Status": "0"
   }
 }
