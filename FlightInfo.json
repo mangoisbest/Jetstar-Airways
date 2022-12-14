@@ -1,6 +1,6 @@
 {
-  "Flights": "2",
-  "Updated": "18/04/2022 - 2:24pm AEST Time",
+  "Flights": "1",
+  "Updated": "Last Changed: 14/12/2022 - 5:45pm AEST",
   "FlightA": {
     "FlightNumber": "JQ934",
     "Date": "18/04/22",
@@ -22,13 +22,13 @@
     "Status": "0"
   },
   "FlightC": {
-    "FlightNumber": "0",
-    "Date": "1",
-    "Time": "0",
-    "Host": "0",
-    "DepartureAirport": "0",
-    "ArrivalAirport": "0",
-    "Gate": "0",
-    "Status": "0"
+    "FlightNumber": "",
+    "Date": "",
+    "Time": "",
+    "Host": "",
+    "DepartureAirport": "",
+    "ArrivalAirport": "",
+    "Gate": "",
+    "Status": ""
   }
 }
