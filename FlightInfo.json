@@ -1,6 +1,6 @@
 {
-  "Flights": "3",
-  "Updated": "Last Changed: 14/12/2022 - 5:50pm AEST",
+  "Flights": "4",
+  "Updated": "19/12/2022 10:23am UTC",
   "FlightA": {
     "FlightNumber": "JQ934",
     "Date": "18/04/22",
@@ -30,5 +30,15 @@
     "ArrivalAirport": "",
     "Gate": "",
     "Status": ""
+  },
+  "FlightD": {
+    "FlightNumber": "JQ843",
+    "Date": "today",
+    "Time": "soon",
+    "Host": "me",
+    "DepartureAirport": "BNE",
+    "ArrivalAirport": "CNS",
+    "Gate": "32",
+    "Status": "idk"
   }
 }
