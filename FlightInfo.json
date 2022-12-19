@@ -1,25 +1,25 @@
 {
-  "Flights": "4",
-  "Updated": "19/12/2022 10:23am UTC",
+  "Flights": "0",
+  "Updated": "19/12/2022 10:33am UTC",
   "FlightA": {
-    "FlightNumber": "JQ934",
-    "Date": "18/04/22",
-    "Time": "2:30pm AEST",
-    "Host": "Xx_ashcarter13",
-    "DepartureAirport": "Brisbane",
-    "ArrivalAirport": "Carins",
-    "Gate": "27",
-    "Status": "Scheduled"
+    "FlightNumber": "",
+    "Date": "",
+    "Time": "",
+    "Host": "",
+    "DepartureAirport": "",
+    "ArrivalAirport": "",
+    "Gate": "",
+    "Status": ""
   },
   "FlightB": {
-    "FlightNumber": "0",
-    "Date": "1",
-    "Time": "12:30",
-    "Host": "0",
-    "DepartureAirport": "0",
-    "ArrivalAirport": "0",
-    "Gate": "0",
-    "Status": "0"
+    "FlightNumber": "",
+    "Date": "",
+    "Time": "",
+    "Host": "",
+    "DepartureAirport": "",
+    "ArrivalAirport": "",
+    "Gate": "",
+    "Status": ""
   },
   "FlightC": {
     "FlightNumber": "",
@@ -32,13 +32,13 @@
     "Status": ""
   },
   "FlightD": {
-    "FlightNumber": "JQ843",
-    "Date": "today",
-    "Time": "soon",
-    "Host": "me",
-    "DepartureAirport": "BNE",
-    "ArrivalAirport": "CNS",
-    "Gate": "32",
-    "Status": "idk"
+    "FlightNumber": "",
+    "Date": "",
+    "Time": "",
+    "Host": "",
+    "DepartureAirport": "",
+    "ArrivalAirport": "",
+    "Gate": "",
+    "Status": ""
   }
 }
