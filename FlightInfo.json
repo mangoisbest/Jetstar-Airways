@@ -1,15 +1,15 @@
 {
-  "Flights": "0",
+  "Flights": "1",
   "Updated": "19/12/2022 10:33am UTC",
   "FlightA": {
-    "FlightNumber": "",
-    "Date": "",
-    "Time": "",
-    "Host": "",
-    "DepartureAirport": "",
-    "ArrivalAirport": "",
-    "Gate": "",
-    "Status": ""
+    "FlightNumber": "JQ463",
+    "Date": "7th March 2025",
+    "Time": "11:30am AEST",
+    "Host": "Ash",
+    "DepartureAirport": "Brisbane",
+    "ArrivalAirport": "Sydney",
+    "Gate": "20",
+    "Status": "On Time"
   },
   "FlightB": {
     "FlightNumber": "",
